@@ -1,5 +1,5 @@
 data = []
-with open("day08_input.txt") as f:
+with open("input.txt") as f:
     data = f.read().splitlines()
 
 entries = [[y.split() for y in x.split(" | ")] for x in data]

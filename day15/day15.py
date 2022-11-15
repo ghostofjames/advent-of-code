@@ -1,9 +1,10 @@
-import numpy as np
 import heapq
 from collections import defaultdict
 
+import numpy as np
+
 data = []
-with open("day15_input.txt") as f:
+with open("input.txt") as f:
     data = f.read()
 
 cave = np.array([[int(x) for x in y] for y in data.splitlines()])

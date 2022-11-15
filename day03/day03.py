@@ -1,5 +1,5 @@
 data = []
-with open("day03_input.txt") as f:
+with open("input.txt") as f:
     data = f.read().splitlines()
 
 

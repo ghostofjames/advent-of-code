@@ -1,5 +1,5 @@
 data = []
-with open("day04_input.txt") as f:
+with open("input.txt") as f:
     data = f.read().split("\n\n")
 
 numbers = [int(x) for x in data[0].split(",")]

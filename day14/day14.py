@@ -1,7 +1,7 @@
 from collections import Counter
 
 data = []
-# with open("day14_input.txt") as f:
+# with open("input.txt") as f:
 #     data = f.read().splitlines()
 with open("example.txt") as f:
     data = f.read().splitlines()

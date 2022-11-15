@@ -1,8 +1,9 @@
-import numpy as np
 from math import prod
 
+import numpy as np
+
 data = []
-with open("day09_input.txt") as f:
+with open("input.txt") as f:
     data = f.read().splitlines()
 
 

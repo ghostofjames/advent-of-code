@@ -1,7 +1,7 @@
 import numpy as np
 
 data = []
-with open("day13_input.txt") as f:
+with open("input.txt") as f:
     data = f.read()
 
 dots, cmds = data.split('\n\n')

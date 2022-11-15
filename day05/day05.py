@@ -1,7 +1,7 @@
 from collections import defaultdict
 
 data = []
-with open("day05_input.txt") as f:
+with open("input.txt") as f:
     data = f.read().splitlines()
 
 lines = [[[int(n) for n in point.split(",")]
