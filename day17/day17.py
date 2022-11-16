@@ -34,10 +34,12 @@ def hits(velocity, target):
 
 # Part 1
 target_area = [list(map(int, x[3:].split(".."))) for x in data[12:].split(",")]
+search_x = range(0, target_area[0][1] + 1)
+search_y = range(-abs(target_area[1][0]), abs(target_area[1][0]))
 
 velocity_results = {}
-for starting_velocity in product(range(0, target_area[0][1] + 1),
-                                 range(-abs(target_area[1][0]), abs(target_area[1][0]))):
+
+for starting_velocity in product(search_x, search_y):
     hit, max_y = hits(starting_velocity, target_area)
 
     if hit:
