@@ -1,6 +1,6 @@
 # adventofcode2021
 
-My solutions for advent of code 2021, written in Python 3.
+My solutions for [Advent of Code 2021](https://adventofcode.com/2021), written in Python 3.
 
 <!--- advent_readme_stars table --->
 ## 2021 Results
