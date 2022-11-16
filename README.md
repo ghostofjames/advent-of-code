@@ -18,4 +18,5 @@ My solutions for advent of code 2021, written in Python 3.
 | [Day 9](https://adventofcode.com/2021/day/9) | ⭐ | ⭐ |
 | [Day 13](https://adventofcode.com/2021/day/13) | ⭐ | ⭐ |
 | [Day 15](https://adventofcode.com/2021/day/15) | ⭐ | ⭐ |
+| [Day 17](https://adventofcode.com/2021/day/17) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
