@@ -20,4 +20,5 @@ My solutions for [Advent of Code 2021](https://adventofcode.com/2021), written i
 | [Day 15](https://adventofcode.com/2021/day/15) | ⭐ | ⭐ |
 | [Day 17](https://adventofcode.com/2021/day/17) | ⭐ | ⭐ |
 | [Day 21](https://adventofcode.com/2021/day/21) | ⭐ | ⭐ |
+| [Day 25](https://adventofcode.com/2021/day/25) | ⭐ |   |
 <!--- advent_readme_stars table --->
