@@ -24,13 +24,45 @@ My solutions for [Advent of Code](https://adventofcode.com/), written in Python 
 <!--- advent_readme_stars table_2021 --->
 
 <!--- advent_readme_stars table_2020 --->
+## 2020 Results
 
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2020/day/1) | ⭐ | ⭐ |
+<!--- advent_readme_stars table_2020 --->
+
+<!--- advent_readme_stars table_2019 --->
+## 2019 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2019/day/1) | ⭐ | ⭐ |
 <!--- advent_readme_stars table_2019 --->
 
 <!--- advent_readme_stars table_2018 --->
+## 2018 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2018/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2018/day/2) | ⭐ | ⭐ |
+| [Day 3](https://adventofcode.com/2018/day/3) | ⭐ | ⭐ |
+| [Day 5](https://adventofcode.com/2018/day/5) | ⭐ | ⭐ |
+| [Day 7](https://adventofcode.com/2018/day/7) | ⭐ |   |
+<!--- advent_readme_stars table_2018 --->
 
 <!--- advent_readme_stars table_2017 --->
+## 2017 Results
 
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+<!--- advent_readme_stars table_2017 --->
+
+<!--- advent_readme_stars table_2016 --->
+## 2016 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
 <!--- advent_readme_stars table_2016 --->
 
 <!--- advent_readme_stars table_2015 --->
