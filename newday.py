@@ -18,8 +18,9 @@ print(f"Part 2: {0}")
 """
 
 # Get day and year from args
-day = f"day{int(sys.argv[1]):02}"
-year = f"year{sys.argv[2]}"
+year = f"year{sys.argv[1]}"
+day = f"day{int(sys.argv[2]):02}"
+
 
 print(f"Creating files for {year} {day}")
 
