@@ -17,6 +17,36 @@ jobs:
       - uses: k2bd/advent-readme-stars@v1
         with:
           userId: 373657
+          year: 2020
+          sessionCookie: ${{ secrets.AOC_SESSION }}
+          tableMarker: <!--- advent_readme_stars table_2020 --->
+      - uses: k2bd/advent-readme-stars@v1
+        with:
+          userId: 373657
+          year: 2019
+          sessionCookie: ${{ secrets.AOC_SESSION }}
+          tableMarker: <!--- advent_readme_stars table_2019 --->
+      - uses: k2bd/advent-readme-stars@v1
+        with:
+          userId: 373657
+          year: 2018
+          sessionCookie: ${{ secrets.AOC_SESSION }}
+          tableMarker: <!--- advent_readme_stars table_2018 --->
+      - uses: k2bd/advent-readme-stars@v1
+        with:
+          userId: 373657
+          year: 2017
+          sessionCookie: ${{ secrets.AOC_SESSION }}
+          tableMarker: <!--- advent_readme_stars table_2017 --->
+      - uses: k2bd/advent-readme-stars@v1
+        with:
+          userId: 373657
+          year: 2016
+          sessionCookie: ${{ secrets.AOC_SESSION }}
+          tableMarker: <!--- advent_readme_stars table_2016 --->
+      - uses: k2bd/advent-readme-stars@v1
+        with:
+          userId: 373657
           year: 2015
           sessionCookie: ${{ secrets.AOC_SESSION }}
           tableMarker: <!--- advent_readme_stars table_2015 --->

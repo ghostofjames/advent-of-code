@@ -23,6 +23,16 @@ My solutions for [Advent of Code](https://adventofcode.com/), written in Python 
 | [Day 25](https://adventofcode.com/2021/day/25) | ⭐ |   |
 <!--- advent_readme_stars table_2021 --->
 
+<!--- advent_readme_stars table_2020 --->
+
+<!--- advent_readme_stars table_2019 --->
+
+<!--- advent_readme_stars table_2018 --->
+
+<!--- advent_readme_stars table_2017 --->
+
+<!--- advent_readme_stars table_2016 --->
+
 <!--- advent_readme_stars table_2015 --->
 ## 2015 Results
 
