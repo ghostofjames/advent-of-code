@@ -1,6 +1,5 @@
 import numpy as np
 
-data = []
 with open("input.txt") as f:
     data = f.read()
 

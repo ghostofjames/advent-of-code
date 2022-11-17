@@ -1,4 +1,3 @@
-data = []
 with open("input.txt") as f:
     data = list(map(int, f.read().splitlines()))
 

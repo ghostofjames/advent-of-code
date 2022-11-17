@@ -1,6 +1,5 @@
 from collections import Counter
 
-data = []
 # with open("input.txt") as f:
 #     data = f.read().splitlines()
 with open("example.txt") as f:

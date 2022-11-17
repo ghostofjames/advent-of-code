@@ -1,6 +1,5 @@
 from collections import defaultdict
 
-data = []
 with open("input.txt") as f:
     data = f.read().splitlines()
 

@@ -1,6 +1,5 @@
 from itertools import product
 
-data = []
 with open("input.txt") as f:
     data = f.read()
 
