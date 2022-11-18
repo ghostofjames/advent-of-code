@@ -76,4 +76,5 @@ My solutions for [Advent of Code](https://adventofcode.com/), written in Python 
 | [Day 4](https://adventofcode.com/2015/day/4) | ⭐ | ⭐ |
 | [Day 5](https://adventofcode.com/2015/day/5) | ⭐ | ⭐ |
 | [Day 6](https://adventofcode.com/2015/day/6) | ⭐ | ⭐ |
+| [Day 18](https://adventofcode.com/2015/day/18) | ⭐ | ⭐ |
 <!--- advent_readme_stars table_2015 --->
