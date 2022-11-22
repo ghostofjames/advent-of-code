@@ -56,6 +56,20 @@ My solutions for [Advent of Code](https://adventofcode.com/), written in Python 
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2017/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2017/day/2) | ⭐ | ⭐ |
+| [Day 4](https://adventofcode.com/2017/day/4) | ⭐ | ⭐ |
+| [Day 5](https://adventofcode.com/2017/day/5) | ⭐ | ⭐ |
+| [Day 8](https://adventofcode.com/2017/day/8) | ⭐ | ⭐ |
+| [Day 11](https://adventofcode.com/2017/day/11) | ⭐ | ⭐ |
+| [Day 12](https://adventofcode.com/2017/day/12) | ⭐ | ⭐ |
+| [Day 16](https://adventofcode.com/2017/day/16) | ⭐ | ⭐ |
+| [Day 17](https://adventofcode.com/2017/day/17) | ⭐ | ⭐ |
+| [Day 18](https://adventofcode.com/2017/day/18) | ⭐ |   |
+| [Day 19](https://adventofcode.com/2017/day/19) | ⭐ | ⭐ |
+| [Day 20](https://adventofcode.com/2017/day/20) | ⭐ | ⭐ |
+| [Day 22](https://adventofcode.com/2017/day/22) | ⭐ | ⭐ |
+| [Day 23](https://adventofcode.com/2017/day/23) | ⭐ |   |
 <!--- advent_readme_stars table_2017 --->
 
 <!--- advent_readme_stars table_2016 --->
@@ -63,6 +77,7 @@ My solutions for [Advent of Code](https://adventofcode.com/), written in Python 
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2016/day/1) | ⭐ |   |
 <!--- advent_readme_stars table_2016 --->
 
 <!--- advent_readme_stars table_2015 --->
