@@ -2,6 +2,17 @@
 
 My solutions for [Advent of Code](https://adventofcode.com/), written in Python 3.
 
+## aoc.py
+
+Helper script for creating solution files for a new day and automatically fetching the input.
+
+Start a new day using the command:
+```
+python aoc.py new <day> <year>
+```
+This will create a solution file at `year<year>/day<day>/day<day>.py` and download the input to `year<year>/day<day>/input.txt`
+
+
 <!--- advent_readme_stars table_2021 --->
 ## 2021 Results
 
