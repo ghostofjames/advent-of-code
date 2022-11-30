@@ -10,7 +10,14 @@ TEMPLATE_FILE = Path("newtemplate.py")
 AOC_TZ = gettz("America/New_York")
 
 
-def get_year():
+def get_input(year: int, day: int, session: str):
+    url = f"https://adventofcode.com/{year}/day/{day}/input"
+    cookies = dict(session=session)
+    r = requests.get(url, cookies=cookies)
+    return r.text.rstrip('\n')
+
+
+def most_recent_year():
     now = datetime.now(AOC_TZ)
     if int(now.month) == 12:
         return int(now.year)
@@ -31,11 +38,17 @@ def cli():
 
 
 @cli.command()
-@click.argument('day', default=get_day(), type=click.IntRange(1, 25))
-@click.argument('year', default=get_year(), type=click.IntRange(2015, get_year()))
-@click.option('--download/--no-download', '-d/ ', default=True,
+@click.argument('day',
+                default=get_day(),
+                type=click.IntRange(1, 25))
+@click.argument('year',
+                default=most_recent_year(),
+                type=click.IntRange(2015, most_recent_year()))
+@click.option('--download/--no-download', '-d/ ',
+              default=True,
               help="Download input from AOC")
-@click.option('--session', envvar='AOC_SESSION', help="Session cookie")
+@click.option('--session', envvar='AOC_SESSION',
+              help="Session cookie")
 def new(day, year, download, session):
     """Create files for new advent of code day, optionally fetching input"""
 
@@ -58,11 +71,10 @@ def new(day, year, download, session):
     # Download input and save to input file
     if download:
         click.echo(f"Downloading input for day {day:02}")
-        r = requests.get(f"https://adventofcode.com/{year}/day/{day}/input",
-                         cookies=dict(session=session))
-        print(r.text)
+        input_ = get_input(year, day, session)
+
         with Path(f"year{year}/day{day:02}/input.txt").open('w') as f:
-            f.write(r.text.rstrip('\n'))
+            f.write(input_)
 
 
 if __name__ == "__main__":
