@@ -13,7 +13,9 @@ AOC_TZ = gettz("America/New_York")
 def get_input(year: int, day: int, session: str):
     url = f"https://adventofcode.com/{year}/day/{day}/input"
     cookies = dict(session=session)
-    r = requests.get(url, cookies=cookies)
+    headers = {
+        'User-Agent': "github.com/ghostofjames/advent-of-code by 11bloxhamj@gmail.com"}
+    r = requests.get(url, cookies=cookies, headers=headers)
     return r.text.rstrip('\n')
 
 
