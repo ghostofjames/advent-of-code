@@ -3,7 +3,8 @@ with open("input.txt") as f:
 
 
 # Part 1
-elfs = [[int(item) for item in elf.split('\n')] for elf in data.split('\n\n')]
+elfs = [[int(item) for item in elf.split('\n')]
+        for elf in data.split('\n\n')]
 calories = [sum(items for items in elf) for elf in elfs]
 
 print(f"Part 1: {max(calories)}")
