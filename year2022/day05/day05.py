@@ -23,7 +23,6 @@ for p in procedure.splitlines():
 
 tops = ''.join([s[-1] for s in stacks.values()])
 print(f"Part 1: {tops}")
-assert tops == "FWNSHLDNZ"
 
 # Part 2
 stacks = deepcopy(starting_stacks)
@@ -35,4 +34,3 @@ for p in procedure.splitlines():
 
 tops = ''.join([s[-1] for s in stacks.values()])
 print(f"Part 2: {tops}")
-assert tops == "RNRGDNFQG"
