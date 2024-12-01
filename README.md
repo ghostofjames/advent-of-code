@@ -13,6 +13,11 @@ python aoc.py new <day> <year>
 This will create a solution file at `year<year>/day<day>/day<day>.py` and download the input to `year<year>/day<day>/input.txt`
 
 <!--- advent_readme_stars table_2024 --->
+## 2024 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ |
 <!--- advent_readme_stars table_2024 --->
 
 <!--- advent_readme_stars table_2023 --->
