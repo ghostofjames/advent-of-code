@@ -1,7 +1,6 @@
 with open("input.txt") as f:
     data = f.read()
 
-print(data)
 
 lista, listb = [], []
 for line in data.splitlines():
