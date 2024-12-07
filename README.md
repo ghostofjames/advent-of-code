@@ -21,6 +21,9 @@ This will create a solution file at `year<year>/day<day>/day<day>.py` and downlo
 | [Day 2](https://adventofcode.com/2024/day/2) | ⭐ | ⭐ |
 | [Day 3](https://adventofcode.com/2024/day/3) | ⭐ | ⭐ |
 | [Day 4](https://adventofcode.com/2024/day/4) | ⭐ | ⭐ |
+| [Day 5](https://adventofcode.com/2024/day/5) | ⭐ | ⭐ |
+| [Day 6](https://adventofcode.com/2024/day/6) | ⭐ | ⭐ |
+| [Day 7](https://adventofcode.com/2024/day/7) | ⭐ | ⭐ |
 <!--- advent_readme_stars table_2024 --->
 
 <!--- advent_readme_stars table_2023 --->
